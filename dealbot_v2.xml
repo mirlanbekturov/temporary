@@ -6,7 +6,7 @@
 <![CDATA[ Test Dealbot RSS Feed ]]>
 </description>
 <language>en-US</language>
-<lastBuildDate>Wed, 06 Aug 2025 16:20:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 04 Aug 2025 16:20:35 +0000</lastBuildDate>
 <generator>WordPress 6.8.2</generator>
 <atom:link href="https://www.thedrive.com/feeds/dealbot" rel="self" type="application/rss+xml"/>
 <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -20,7 +20,6 @@
 <![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 1 Title<br/>17 % Off!<br/>Was: $239.99 -> Now: $199.99 ]]>
 </description>
 <link>https://www.amazon.com/dp/B08XMNSVMV3456?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
-<pubDate>Wed, 06 Aug 2025 16:20:35 +0000</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">dealbot-product-223-22-08-06</guid>
@@ -31,7 +30,6 @@
 <![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 2 Title<br/>17 % Off!<br/>Was: $339.99 -> Now: $299.99 ]]>
 </description>
 <link>https://www.amazon.com/dp/B08XMNSVMV123?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
-<pubDate>Wed, 06 Aug 2025 16:21:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
