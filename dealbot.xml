@@ -14,6 +14,7 @@
 <item>
 <title>Test Dealbot Product 1 Title</title>
 <guid isPermaLink="false">dealbot-product-123</guid>
+<description>Test Dealbot Product 1 Title</description>
 <content:encoded>
 <![CDATA[ DEAL OF THE DAY!
 Test Dealbot Product 1 Title
@@ -25,6 +26,7 @@ Was: $239.99 -> Now: $199.99 ]]>
 <item>
 <title>Test Dealbot Product 2 Title</title>
 <guid isPermaLink="false">dealbot-product-456</guid>
+<description>Test Dealbot Product 2 Title</description>
 <content:encoded>
 <![CDATA[ DEAL OF THE DAY!
 Test Dealbot Product 2 Title
