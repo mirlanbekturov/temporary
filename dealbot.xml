@@ -12,6 +12,7 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <item>
+<guid isPermaLink="false">dealbot-product-123-2025-08-06</guid>
 <title>
 <![CDATA[ Test Dealbot Product 1 Title ]]>
 </title>
@@ -22,6 +23,7 @@ Test Dealbot Product 1 Title
 Was: $239.99 -> Now: $199.99 ]]>
 </description>
 <link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<pubDate>Wed, 06 Aug 2025 16:20:35 +0000</pubDate>
 </item>
 <item>
 <title>
