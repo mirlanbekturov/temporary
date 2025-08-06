@@ -17,12 +17,9 @@
 <![CDATA[ Test Dealbot Product 1 Title ]]>
 </title>
 <description>
-<![CDATA[ DEAL OF THE DAY!
-Test Dealbot Product 1 Title
-17 % Off!
-Was: $239.99 -> Now: $199.99 ]]>
+<![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 1 Title<br/>17 % Off!<br/>Was: $239.99 -> Now: $199.99 ]]>
 </description>
-<link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<link>https://www.amazon.com/dp/B08XMNSVMV3456?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 <pubDate>Wed, 06 Aug 2025 16:20:35 +0000</pubDate>
 </item>
 <item>
@@ -31,12 +28,9 @@ Was: $239.99 -> Now: $199.99 ]]>
 <![CDATA[ Test Dealbot Product 2 Title ]]>
 </title>
 <description>
-<![CDATA[ DEAL OF THE DAY!
-Test Dealbot Product 2 Title
-17 % Off!
-Was: $339.99 -> Now: $299.99 ]]>
+<![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 2 Title<br/>17 % Off!<br/>Was: $339.99 -> Now: $299.99 ]]>
 </description>
-<link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<link>https://www.amazon.com/dp/B08XMNSVMV123?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 <pubDate>Wed, 06 Aug 2025 16:21:35 +0000</pubDate>
 </item>
 </channel>
