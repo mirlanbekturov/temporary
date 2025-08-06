@@ -16,22 +16,7 @@
 <guid isPermaLink="false">dealbot-product-123</guid>
 <description>Test Dealbot Product 1 Title</description>
 <content:encoded>
-<![CDATA[ DEAL OF THE DAY!
-Test Dealbot Product 1 Title
-17 % Off!
-Was: $239.99 -> Now: $199.99 ]]>
-</content:encoded>
-<link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
-</item>
-<item>
-<title>Test Dealbot Product 2 Title</title>
-<guid isPermaLink="false">dealbot-product-456</guid>
-<description>Test Dealbot Product 2 Title</description>
-<content:encoded>
-<![CDATA[ DEAL OF THE DAY!
-Test Dealbot Product 2 Title
-17 % Off!
-Was: $339.99 -> Now: $299.99 ]]>
+<![CDATA[ DEAL OF THE DAY!</br>Test Dealbot Product 1 Title</br>17 % Off!</br>Was: $239.99 -> Now: $199.99 ]]>
 </content:encoded>
 <link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
