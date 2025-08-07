@@ -14,28 +14,29 @@
 <item>
 <guid isPermaLink="false">dealbot-product-555-12900</guid>
 <title>
-<![CDATA[ Test Dealbot Product 40 Title ]]>
+<![CDATA[ Test Dealbot Product 410 Title ]]>
 </title>
 <content:encoded>
-<![CDATA[ DEAL OF THE DAY!\n
-  Test Dealbot Product 4 Title\n
-  17 % Off!\n
+<![CDATA[ 
+  DEAL OF THE DAY!
+  Test Dealbot Product 410 Title
+  17 % Off!
   Was: $239.99 -> Now: $199.99 ]]>
 </content:encoded>
-<link>https://www.amazon.com/dp/tertsd123?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<link>https://www.amazon.com/dp/tertsd123510?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
 <item>
 <guid isPermaLink="false">dealbot-product-444-11900</guid>
 <title>
-<![CDATA[ Test Dealbot Product 50 Title ]]>
+<![CDATA[ Test Dealbot Product 510 Title ]]>
 </title>
 <content:encoded>
-<![CDATA[ DEAL OF THE DAY!\n
-  Test Dealbot Product 5 Title\n
-  17 % Off!\n
+<![CDATA[ DEAL OF THE DAY!
+  Test Dealbot Product 510 Title
+  17 % Off!
   Was: $139.99 -> Now: $99.99 ]]>
 </content:encoded>
-<link>https://www.amazon.com/dp/fswer99?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<link>https://www.amazon.com/dp/fswer99410?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
 </channel>
 </rss>
