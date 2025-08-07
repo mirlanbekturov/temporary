@@ -6,30 +6,30 @@
 <![CDATA[ Test Dealbot RSS Feed ]]>
 </description>
 <language>en-US</language>
-<lastBuildDate>Mon, 04 Aug 2025 16:20:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 06 Aug 2025 16:20:35 +0000</lastBuildDate>
 <generator>WordPress 6.8.2</generator>
-<atom:link href="https://www.thedrive.com/feeds/dealbot" rel="self" type="application/rss+xml"/>
+<atom:link href="https://mirlanbekturov.github.io/temporary/dealbot_v2.xml" rel="self" type="application/rss+xml"/>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <item>
-<guid isPermaLink="false">dealbot-product-123-2025-08-06</guid>
+<guid isPermaLink="false">dealbot-product-33223</guid>
 <title>
-<![CDATA[ Test Dealbot Product 1 Title ]]>
+<![CDATA[ Test Dealbot Product 3 Title ]]>
 </title>
 <description>
-<![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 1 Title<br/>17 % Off!<br/>Was: $239.99 -> Now: $199.99 ]]>
+<![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 3 Title<br/>17 % Off!<br/>Was: $239.99 -> Now: $199.99 ]]>
 </description>
-<link>https://www.amazon.com/dp/B08XMNSVMV3456?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<link>https://www.amazon.com/dp/123456?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
 <item>
-<guid isPermaLink="false">dealbot-product-223-22-08-06</guid>
+<guid isPermaLink="false">dealbot-product-645433</guid>
 <title>
-<![CDATA[ Test Dealbot Product 2 Title ]]>
+<![CDATA[ Test Dealbot Product 4 Title ]]>
 </title>
 <description>
-<![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 2 Title<br/>17 % Off!<br/>Was: $339.99 -> Now: $299.99 ]]>
+<![CDATA[ DEAL OF THE DAY!<br/>Test Dealbot Product 4 Title<br/>17 % Off!<br/>Was: $339.99 -> Now: $299.99 ]]>
 </description>
-<link>https://www.amazon.com/dp/B08XMNSVMV123?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<link>https://www.amazon.com/dp/7890?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
 </channel>
 </rss>
