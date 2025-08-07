@@ -12,13 +12,13 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <item>
-<guid isPermaLink="false">dealbot-product-555-12900</guid>
+<guid isPermaLink="false">dealbot-product-123-232323</guid>
 <title>
-<![CDATA[ Test Dealbot Product 410 Title ]]>
+<![CDATA[ Test Dealbot Product 4100 Title ]]>
 </title>
 <content:encoded>
 <![CDATA[ DEAL OF THE DAY!
-  Test Dealbot Product 4 Title
+  Test Dealbot Product 4100 Title
   17 % Off!
   Was: $239.99 -> Now: $199.99
   https://www.amazon.com/dp/tertsd?tag=bovi01-20 ]]>
@@ -26,17 +26,17 @@
 <link>https://www.amazon.com/dp/tertsd123510?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
 <item>
-<guid isPermaLink="false">dealbot-product-444-11900</guid>
+<guid isPermaLink="false">dealbot-product-54-98762</guid>
 <title>
-<![CDATA[ Test Dealbot Product 510 Title ]]>
+<![CDATA[ Test Dealbot Product 5100 Title ]]>
 </title>
 <content:encoded>
-<![CDATA[ DEAL OF THE DAY!
-  Test Dealbot Product 510 Title
+<![CDATA[ <p>DEAL OF THE DAY!</p>
+  Test Dealbot Product 5100 Title
   17 % Off!
-  Was: $139.99 -> Now: $99.99 ]]>
+  Was: $139.99 -> Now: $99.99
+  https://www.amazon.com/dp/fswer99410?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1]]>
 </content:encoded>
-<link>https://www.amazon.com/dp/fswer99410?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
 </channel>
 </rss>
