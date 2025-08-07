@@ -12,11 +12,11 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <item>
-<guid isPermaLink="false">dealbot-product-123-qqs212</guid>
-<title>Test Dealbot Product Without Title</title>
+<guid isPermaLink="false">dealbot-product-123-final</guid>
+<title>Test Dealbot Product Final Title</title>
 <content:encoded><![CDATA[
   DEAL OF THE DAY!<br/>
-  Test Dealbot Product Without Title<br/>
+  Test Dealbot Product Final Title<br/>
   17 % Off!<br/>
   Was: $239.99 -> Now: $199.99<br/>
 ]]></content:encoded>
