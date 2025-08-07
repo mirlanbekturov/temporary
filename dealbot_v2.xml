@@ -12,16 +12,13 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <item>
-<guid isPermaLink="false">dealbot-product-123-485449</guid>
-<title>
-<![CDATA[ Test Dealbot Product with BR Title ]]>
-</title>
-  <content:encoded><![CDATA[
-    DEAL OF THE DAY!<br/>
-    Test Dealbot Product with BR Title<br/>
-    17 % Off!<br/>
-    Was: $239.99 -> Now: $199.99<br/>
-  ]]></content:encoded>
+<guid isPermaLink="false">dealbot-product-123-qqs212</guid>
+<content:encoded><![CDATA[
+  🔥 DEAL OF THE DAY! 🔥<br/>
+  ⭐ Test Dealbot Product Without Title<br/>
+  🎉 17 % Off!<br/>
+  💰 Was: $239.99 -> Now: $199.99<br/>
+]]></content:encoded>
 <link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20102&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
 </item>
 </channel>
