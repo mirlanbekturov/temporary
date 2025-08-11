@@ -1,26 +1,18 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
-<title>The Drive</title>
-<link>https://www.thedrive.com</link>
-<description>
-<![CDATA[ Test Dealbot RSS Feed ]]>
-</description>
-<language>en-US</language>
-<lastBuildDate>Wed, 06 Aug 2025 16:20:35 +0000</lastBuildDate>
-<generator>WordPress 6.8.2</generator>
-<atom:link href="https://mirlanbekturov.github.io/temporary/dealbot_v2.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://thedrive.vipdev.lndo.site/feeds/dealbot" rel="self" type="application/rss+xml"/>
+<title>Dealbot Feed</title>
+<link>https://thedrive.vipdev.lndo.site</link>
+<description>Dealbot Products Feed</description>
+<language>en</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <item>
-<guid isPermaLink="false">dealbot-product-123-final-89-99</guid>
-<title>Test Dealbot Product Final Title Check $89.99</title>
-<content:encoded><![CDATA[
-    DEAL OF THE DAY!<br/>
-    Test Dealbot Product with Final Title Check<br/>
-    17 % Off!<br/>
-    Was: $239.99 -> Now: $89.99<br/>
-  ]]></content:encoded>
-<link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20102&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<guid isPermaLink="false">B00GNKVOVA</guid>
+<title>3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve</title>
+<description>3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve</description>
+<content:encoded>DEAL OF THE DAY!<br/> 3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve<br/> 32 % Off! <br/>Was: $640.43 -> Now: $435.95</content:encoded>
+<link>https://www.amazon.com/dp/B00GNKVOVA?tag=drive09e6-20&linkCode=ogi&th=1&psc=1</link>
 </item>
 </channel>
 </rss>
