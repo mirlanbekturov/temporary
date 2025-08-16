@@ -1,20 +1,23 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<channel>
-<atom:link href="https://thedrive.vipdev.lndo.site/feeds/dealbot" rel="self" type="application/rss+xml"/>
-<title>Dealbot Feed</title>
-<link>https://thedrive.vipdev.lndo.site</link>
-<description>Dealbot Products Feed</description>
-<language>en</language>
-<sy:updatePeriod>hourly</sy:updatePeriod>
-<sy:updateFrequency>1</sy:updateFrequency>
-<item>
-<guid isPermaLink="false">test-1234533232</guid>
-<title>TEST 3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve</title>
-<description>TEST 3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve</description>
-<content:encoded>
-  <![CDATA[🔥DEAL OF THE DAY!🔥<br/>✨ 3ME Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve<br/>🏷️ 32 % Off!<br/>💰 Was: $640.43 -> Now: $435.95]]>
-</content:encoded>
-<link>https://www.amazon.com/dp/B00GNKVOVA?tag=drive09e6-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
-</item>
-</channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://thedrive.vipdev.lndo.site/feeds/dealbot" rel="self" type="application/rss+xml" />
+    <title>Dealbot Feed</title>
+    <link>https://thedrive.vipdev.lndo.site</link>
+    <description>Dealbot Products Feed</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Aug 2025 05:10:34 +0000
+    </lastBuildDate><sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <guid isPermaLink="false">B00GNKVOVA-2025-08-14</guid>
+      <title>3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve</title>
+      <description>3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve</description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <content:encoded>
+        <![CDATA[🔥DEAL OF THE DAY!🔥<br/>✨ 3M Performance Spray Gun Starter Kit, 26778, Includes PPS 2.0 Paint Spray Cup System, 15 Replaceable Gravity HVLP Atomizing Heads, Air Control Valve<br/>🏷️ 32 % Off!<br/>💰 Was: $640.43 -> Now: $435.95]]>
+      </content:encoded>
+      <link>https://www.amazon.com/dp/B00GNKVOVA?tag=drive09e6-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+    </item>
+  </channel>
 </rss>
