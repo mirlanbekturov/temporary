@@ -12,30 +12,15 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <item>
-<guid isPermaLink="false">dealbot-product-123-2025-08-06</guid>
-<title>
-<![CDATA[ Test Dealbot Product 1 Title ]]>
-</title>
-<description>
-<![CDATA[ DEAL OF THE DAY!
-Test Dealbot Product 1 Title
-17 % Off!
-Was: $239.99 -> Now: $199.99 ]]>
-</description>
-<link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
-<pubDate>Wed, 06 Aug 2025 16:20:35 +0000</pubDate>
-</item>
-<item>
-<title>
-<![CDATA[ Test Dealbot Product 2 Title ]]>
-</title>
-<description>
-<![CDATA[ DEAL OF THE DAY!
-Test Dealbot Product 2 Title
-17 % Off!
-Was: $339.99 -> Now: $299.99 ]]>
-</description>
-<link>https://www.amazon.com/dp/B08XMNSVMV?tag=bovi01-20&amp;linkCode=ogi&amp;th=1&amp;psc=1</link>
+<guid isPermaLink="false">d4efb36e215e0892d9b9f61ba502edb7</guid>
+<title>Razor Dune Buggy - Red</title>
+<pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+<description>Razor Dune Buggy - Red</description>
+<content:encoded>
+<![CDATA[ 🔥 TOP DEAL 🔥<br/>✨ Razor Dune Buggy - Red<br/>🏷️ 26% Off!<br/>💰 Was: $649.99 -> Now: $481.99<br/> ]]>
+</content:encoded>
+<link>https://thedrive.prsm1.com/r/?url=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB000VEWWF6%3Ftag%3Ddrive09e6-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3D0036TD&channel=other-dealbot-instagram&h=6832cf5d5a8cf99b7a5d048b2a4d46b533c034081bdd24133111a9f2ade9cd25&v=20251023</link>
+<enclosure url="https://m.media-amazon.com/images/I/413SuQbvRCL._SL500_.jpg" length="0" type="image/jpeg" />
 </item>
 </channel>
 </rss>
